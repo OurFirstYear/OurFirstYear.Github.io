@@ -30,22 +30,22 @@ var random = Math.floor(Math.random() * 6);
 var yes1='';
 switch (random) {
   case 1:
-    yes1 = 'https://media.giphy.com/media/xmXUarKqywPhS/giphy.gif';
+    yes1 = 'https://media.giphy.com/media/fTmRLmuQ2BIzXlujyY/giphy.gif';
     break;
   case 2:
-    yes1 = 'https://media.giphy.com/media/lEGpiFvQDX4U8/giphy.gif';
+    yes1 = 'https://media.giphy.com/media/IMznbyWhsTEoE/giphy.gif';
     break;
   case 3:
-    yes1 = 'https://media.giphy.com/media/d3mnEmgej63Z4RIQ/giphy.gif';
+    yes1 = 'https://media.giphy.com/media/lovdQqvIKNVTPgLuuT/giphy.gif';
     break;
    case 4:
-    yes1 = 'https://media.giphy.com/media/7frSUXgbGqQPKNnJRS/giphy.gif';
+    yes1 = 'https://media.giphy.com/media/7JXNUbamtaFzy/giphy.gif';
     break;
     case 5:
-    yes1 = 'https://media.giphy.com/media/p2J2OMrBI6ErC/giphy.gif';
+    yes1 = 'https://media.giphy.com/media/o2PzT5LZzztfO/giphy.gif';
     break;
   default:
-    yes1 = 'https://media.giphy.com/media/13V2lGH2cUYgzC/giphy.gif';
+    yes1 = 'https://media.giphy.com/media/12cn5ERxgFV9KM/giphy.gif';
 }
 
 /* UI DATA
