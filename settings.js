@@ -51,8 +51,8 @@ switch (random) {
 /* UI DATA
 -------------------------------- */
 const uiData = {
-    valentinesFirstName: 'Lori',
-    valentinesLastName: 'Konkol',
+    valentinesFirstName: 'Lori Konkol, My Sweet',
+    valentinesLastName: 'Wife',
     headerMessage: 'Its almost one year! Would you say I Do again? 🌹',
     resultHeaderYes: 'You said yes! 🏓<br>😍💚💜💚💕💜💚💜😘',
     resultHeaderNo: 'You said no 😢',
